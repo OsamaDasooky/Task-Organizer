@@ -18,7 +18,13 @@ Edit todo cards
 
 Team members :
 Osama Dosoky
+
 Ahmad Zahran
+
 Ibrahim Taqieddin
+
 Rama Jaradat
-['live link :'] ("https://task-organizer.github.io/Main-Task-Organizer/")
+
+[organizations link](https://task-organizer.github.io/Main-Task-Organizer/)
+
+[live link](https://osamadasooky.github.io/Task-Organizer/)
