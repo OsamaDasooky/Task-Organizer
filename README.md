@@ -4,9 +4,13 @@ Our Website Is a Memoranda to Save Your Tasks as a List, in order not to forget 
 
 its pasically a web application to organize daily tasks for the user to manage their time and work efficiently.
 
-the benefits of a daily to-do list
+ the benefits of a daily to-do list
+ 
+-Increases productivity. 
+-Provides motivation. 
+-Improves memory. 
+-Reduces stress. 
 
--Increases productivity. -Provides motivation. -Improves memory. -Reduces stress.
 
 Team members :
 
@@ -14,20 +18,20 @@ Osama Dosoky (S) /
 
 waad Awajneh /
 
-Rama Jaradat (P) /
+Rama Jaradat (P) / 
 
 Ahmad Zahran /
 
 Ibrahim Taqieddin
 
-organizations link
 
-live link
+[organizations link](https://task-organizer.github.io/Main-Task-Organizer/)
 
-trllo
+[live link](https://osamadasooky.github.io/Task-Organizer/)
 
-wairfram.pdf
+[trllo](https://trello.com/b/YStX5fIr/project)
 
-mockup.pdf
+[wairfram.pdf](https://github.com/Task-Organizer/Main-Task-Organizer/files/9442271/wairfram.pdf)
 
+[mockup.pdf](https://github.com/Task-Organizer/Main-Task-Organizer/files/9442273/mockup.pdf)
 
